@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TiagoFerreiraaa
+- 👋 Hi, I’m @TiagoFerreiraaa, I'm 19 years old and I live in Brazil
 - 👀 I’m interested in joining an internship in my field
 - 🌱 I’m currently learning and curating systems analysis and development
 - 💞️ I’m looking to collaborate on ...
